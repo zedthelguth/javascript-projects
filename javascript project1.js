@@ -1,3 +1,4 @@
+// this is a palindrome checker
 function palindrome(str){
     // first we remove the whitespaces, punctuations and converts all characters to lowercase 
     let reg = /[\W\s_]+/g;
